@@ -122,129 +122,20 @@
             <div class="section-title text-center col-12 mb-80">
                 <h1>1500+</h1>
                 <h2>People Working with Us</h2>
-                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <p>come join us!</p>
             </div>
         </div>
-        <div class="row">
-			<!--  Single Service  -->
-			<div class="single-service text-center col-lg-3 col-md-6 col-12">
-				<img src="img/service/1.png" alt="">
-				<h4>Recycling</h4>
-				<p>There are many v ofpasages of Lorem Ipsum available, but the majority have sufred</p>
-			</div>
-			<!--  Single Service  -->
-			<div class="single-service text-center col-lg-3 col-md-6 col-12">
-				<img src="img/service/2.png" alt="">
-				<h4>Organic</h4>
-				<p>There are many v ofpasages of Lorem Ipsum available, but the majority have sufred</p>
-			</div>
-			<!--  Single Service  -->
-			<div class="single-service text-center col-lg-3 col-md-6 col-12">
-				<img src="img/service/3.png" alt="">
-				<h4>Eco System</h4>
-				<p>There are many v ofpasages of Lorem Ipsum available, but the majority have sufred</p>
-			</div>
-			<!--  Single Service  -->
-			<div class="single-service text-center col-lg-3 col-md-6 col-12">
-				<img src="img/service/4.png" alt="">
-				<h4>Biology</h4>
-				<p>There are many v ofpasages of Lorem Ipsum available, but the majority have sufred</p>
-			</div>
-        </div>
+
     </div>
 </div>
 <!-- Service Area End -->
 
 <!-- About Area Start -->
-<div id="about-area" class="about-area bg-dark section">
-    <!--  About Image  -->
-    <div class="about-image"><img src="img/about/about.jpg" alt=""></div>
-    <div class="container">
-        <div class="row">
-            <!--  About Content  -->
-            <div class="about-content col-lg-6 col-12 ml-auto pt-110 pb-110">
-                <h2>Over More than</h2>
-                <h1>150+ Projects WorldWide</h1>
-                <p>Contrary to popular belief, Lorem Ipsum is not simply ranm text. It has roots in a piece of classical Latin literature from C, making it over 2000 years old. Richard McClintock,</p>
-                <p>a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more</p>
-                <a href="#" class="button white">JOIN NOW</a>
-                <a href="#" class="button">view details</a>
-            </div>
-        </div>
-    </div>
-</div>
+
+
 <!-- About Area End -->
 
 <!-- Project Area Start -->
-<div id="project-area" class="project-area section pt-120 pb-90">
-    <div class="container">
-        <!-- Section Title -->
-        <div class="row">
-            <div class="section-title text-center col-12 mb-80">
-                <h2>RECENT PROJECT</h2>
-            </div>
-        </div>
-        <div class="row">
-            <!--  Single Project  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-project">
-                    <!--  Image  -->
-                    <img src="img/project/1.jpg" alt="">
-                    <!--  Title  -->
-                    <h4><a href="project-details.html">All the Lorem Ipsum Gener</a></h4>
-                    <!--  Tags  -->
-                    <div class="tags fix">
-                        <a href="#">Energy</a>
-                        <a href="#">Green</a>
-                        <a href="#">Solar</a>
-                    </div>
-                    <!--  Content  -->
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
-                    <!--  Button  -->
-                    <a class="button" href="project-details.html">Learn More</a>
-                </div>
-            </div>
-            <!--  Single Project  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-project">
-                    <!--  Image  -->
-                    <img src="img/project/2.jpg" alt="">
-                    <!--  Title  -->
-                    <h4><a href="project-details.html">It is a long established fact</a></h4>
-                    <!--  Tags  -->
-                    <div class="tags fix">
-                        <a href="#">Energy</a>
-                        <a href="#">Green</a>
-                        <a href="#">Solar</a>
-                    </div>
-                    <!--  Content  -->
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
-                    <!--  Button  -->
-                    <a class="button" href="project-details.html">Learn More</a>
-                </div>
-            </div>
-            <!--  Single Project  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-project">
-                    <!--  Image  -->
-                    <img src="img/project/3.jpg" alt="">
-                    <!--  Title  -->
-                    <h4><a href="project-details.html">All the Lorem Ipsum Gener</a></h4>
-                    <!--  Tags  -->
-                    <div class="tags fix">
-                        <a href="#">Energy</a>
-                        <a href="#">Green</a>
-                        <a href="#">Solar</a>
-                    </div>
-                    <!--  Content  -->
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
-                    <!--  Button  -->
-                    <a class="button" href="project-details.html">Learn More</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Project Area End -->
 
 <!-- Donation Area Start -->
@@ -262,16 +153,6 @@
                     <form action="#" id="donation-form">
                         <div class="input-box input-3"><input type="text" placeholder="YOUR NAME"></div>
                         <div class="input-box input-3"><input type="email" placeholder="EMAIL"></div>
-                        <div class="input-box input-3">
-                            <select>
-                                <option value="1">SELECT PROJECT</option>
-                                <option value="2">PROJECT NUMBER 1</option>
-                                <option value="3">PROJECT NUMBER 2</option>
-                                <option value="4">PROJECT NUMBER 3</option>
-                                <option value="5">PROJECT NUMBER 4</option>
-                                <option value="6">PROJECT NUMBER 4</option>
-                            </select>
-                        </div>
                         <div class="input-box input-3">
                             <select>
                                 <option value="1">SELECT AMOUNT</option>
@@ -292,84 +173,7 @@
 <!-- Donation Area End -->
 
 <!-- Causes Area Start -->
-<div id="causes-area" class="causes-area bg-dark section pt-120 pb-90">
-    <div class="container">
-        <!-- Section Title -->
-        <div class="row">
-            <div class="section-title white text-center col-12 mb-80">
-                <h2>LATEST CAUSES</h2>
-            </div>
-        </div>
-        <div class="row">
-            <!--  Single Causes  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-causes-dark">
-                    <div class="wrap">
-                        <!--  Image  -->
-                        <img src="img/causes/1.jpg" alt="">
-                        <!--  Title  -->
-                        <h4><a href="causes-details.html">All the Lorem Ipsum Gener</a></h4>
-                        <!--  Country  -->
-                        <span>Brazil</span>
-                        <!--  Content  -->
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <!--  Button  -->
-                        <a class="button" href="#">donate</a>
-                    </div>
-                    <!--  Donation Amount  -->
-                    <div class="donation-amount fix">
-                        <p class="total float-left">Target: <span>$5000</span> </p>
-                        <p class="raise float-right">Raised: <span>$2000</span> </p>
-                    </div>
-                </div>
-            </div>
-            <!--  Single Causes  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-causes-dark">
-                    <div class="wrap">
-                        <!--  Image  -->
-                        <img src="img/causes/2.jpg" alt="">
-                        <!--  Title  -->
-                        <h4><a href="causes-details.html">Contrary to popular belief</a></h4>
-                        <!--  Country  -->
-                        <span>Bangladesh</span>
-                        <!--  Content  -->
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <!--  Button  -->
-                        <a class="button" href="#">donate</a>
-                    </div>
-                    <!--  Donation Amount  -->
-                    <div class="donation-amount fix">
-                        <p class="total float-left">Target: <span>$5000</span> </p>
-                        <p class="raise float-right">Raised: <span>$2000</span> </p>
-                    </div>
-                </div>
-            </div>
-            <!--  Single Causes  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="single-causes-dark">
-                    <div class="wrap">
-                        <!--  Image  -->
-                        <img src="img/causes/3.jpg" alt="">
-                        <!--  Title  -->
-                        <h4><a href="causes-details.html">It is a long established fact</a></h4>
-                        <!--  Country  -->
-                        <span>Brazil</span>
-                        <!--  Content  -->
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <!--  Button  -->
-                        <a class="button" href="#">donate</a>
-                    </div>
-                    <!--  Donation Amount  -->
-                    <div class="donation-amount fix">
-                        <p class="total float-left">Target: <span>$5000</span> </p>
-                        <p class="raise float-right">Raised: <span>$2000</span> </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Causes Area End -->
 
 <!-- FunFact Area Start -->
@@ -419,96 +223,11 @@
 <!-- FunFact Area End -->
 
 <!-- Video Area Start -->
-<div id="video-area" class="video-area section overlay pt-150 pb-150">
-    <div class="container">
-        <div class="row">
-            <!--  Video Wrapper  -->
-            <div class="video-wrapper col-12 text-center">
-                <h1>WATCH OUR LATEST CAMPAIGN VIDEO</h1>
-                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of clssical Latin literature from 45 BC, making it over 2000 years old.</p>
-                <a class="video-popup" href="https://www.youtube.com/watch?v=mcixldqDIEQ"><i class="zmdi zmdi-play-circle-outline"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Video Area End -->
 
 <!-- Event Gallery Area Start -->
-<div id="event-gallery-area" class="event-gallery-area section pt-120 pb-70">
-    <div class="container">
-        <div class="row">
-            <!--  Event Wrapper  -->
-            <div class="event-wrapper col-xl-5 col-lg-6 col-12 mb-50">
-                <!--  Block Title  -->
-                <h3 class="block-title">Latest Events</h3>
-                <!--  Single Event List  -->
-                <div class="event-list fix">
-                    <div class="date float-left">
-                        <h1>20</h1>
-                        <h4>june</h4>
-                    </div>
-                    <div class="content fix">
-                        <a href="causes-details.html">Cites of the word in class</a>
-                        <p>There are many variations of passages of Lorem Ipsum available,</p>
-                    </div>
-                </div>
-                <!--  Single Event List  -->
-                <div class="event-list fix">
-                    <div class="date float-left">
-                        <h1>23</h1>
-                        <h4>june</h4>
-                    </div>
-                    <div class="content fix">
-                        <a href="causes-details.html">long established fact that</a>
-                        <p>There are many variations of passages of Lorem Ipsum available,</p>
-                    </div>
-                </div>
-                <!--  Single Event List  -->
-                <div class="event-list fix">
-                    <div class="date float-left">
-                        <h1>25</h1>
-                        <h4>june</h4>
-                    </div>
-                    <div class="content fix">
-                        <a href="causes-details.html">Contrary to popular belief</a>
-                        <p>There are many variations of passages of Lorem Ipsum available,</p>
-                    </div>
-                </div>
-            </div>
-            <!--  Small Gallery Wrapper  -->
-            <div class="small-gallery-wrapper ml-auto col-lg-6 col-12 mb-40">
-                <!--  Block Title  -->
-                <h3 class="block-title">PHOTO GALLERY</h3>
-                <div class="row row-5">
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-1.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-1.jpg" alt=""></a>
-                    </div>
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-2.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-2.jpg" alt=""></a>
-                    </div>
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-3.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-3.jpg" alt=""></a>
-                    </div>
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-4.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-4.jpg" alt=""></a>
-                    </div>
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-5.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-5.jpg" alt=""></a>
-                    </div>
-                    <!--  Gallery Item  -->
-                    <div class="col-md-4 col-sm-3 col-xs-6 mb-10">
-                        <a href="img/gallery/big-6.jpg" class="gallery-item gallery-popup"><img src="img/gallery/small-thumb-6.jpg" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Event Gallery Area End -->
 
 <!-- Client Area Start -->
@@ -542,72 +261,7 @@
 <!-- Client Area End -->
 
 <!-- Blog Area Start -->
-<div id="blog-area" class="blog-area section pt-120 pb-90">
-    <div class="container">
-        <!-- Section Title -->
-        <div class="row">
-            <div class="section-title text-center col-12 mb-80">
-                <h2>LATEST NEWS</h2>
-            </div>
-        </div>
-        <div class="row">
-            <!--  Blog Item  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="blog-item">
-                    <!--  Image  -->
-                    <a href="blog-details.html" class="image"><img src="img/blog/1.jpg" alt=""></a>
-                    <!--  Content  -->
-                    <div class="content">
-                        <h4><a href="blog-details.html">All the Lorem Ipsum Gener</a></h4>
-                        <!--  Meta  -->
-                        <div class="meta fix">
-                            <span>28 January 2016</span>
-                            <span><a href="#">3 Comment</a></span>
-                        </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
-                    </div>
-                </div>
-            </div>
-            <!--  Blog Item  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="blog-item">
-                    <!--  Image  -->
-                    <a href="blog-details.html" class="image"><img src="img/blog/2.jpg" alt=""></a>
-                    <!--  Content  -->
-                    <div class="content">
-                        <h4><a href="blog-details.html">Finibus Bonorum et Malorum</a></h4>
-                        <!--  Meta  -->
-                        <div class="meta fix">
-                            <span>28 January 2016</span>
-                            <span><a href="#">3 Comment</a></span>
-                        </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
-                    </div>
-                </div>
-            </div>
-            <!--  Blog Item  -->
-            <div class="col-lg-4 col-md-6 col-12 mb-30">
-                <div class="blog-item">
-                    <!--  Image  -->
-                    <a href="blog-details.html" class="image"><img src="img/blog/3.jpg" alt=""></a>
-                    <!--  Content  -->
-                    <div class="content">
-                        <h4><a href="blog-details.html">The standard Lorem Ipsuma</a></h4>
-                        <!--  Meta  -->
-                        <div class="meta fix">
-                            <span>28 January 2016</span>
-                            <span><a href="#">3 Comment</a></span>
-                        </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Blog Area End -->
 
 <!-- Footer Top Area Start -->
@@ -618,8 +272,8 @@
             <div class="footer-widget col-lg-4 col-md-6 col-12 mb-50">
                 <!--  About Widget  -->
                 <div class="about-widget">
-                    <img src="img/logo-2.png" alt="">
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
+                    <img src="img/logo.png" alt="">
+                    <p>your sorting motivator</p>
                     <!-- Footer Social -->
                     <div class="footer-social fix">
                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -632,60 +286,15 @@
                 </div>
             </div>
             <!--  Footer Widget  -->
-            <div class="footer-widget col-lg-4 col-md-6 col-12 mb-50">
-                <h3>Latest News</h3>
-                <!--  Latest News Widget  -->
-                <div class="footer-news">
-                    <a href="#" class="image float-left"><img src="img/blog/footer/1.jpg" alt=""></a>
-                    <div class="content fix">
-                        <a href="#">Finibus Bonorum Malorum</a>
-                        <p>Contrary to popular belief, Lorm Ipsum is not simply random</p>
-                    </div>
-                </div>
-                <div class="footer-news">
-                    <a href="#" class="image float-left"><img src="img/blog/footer/2.jpg" alt=""></a>
-                    <div class="content fix">
-                        <a href="#">The Standard lorem ipsum</a>
-                        <p>Contrary to popular belief, Lorm Ipsum is not simply random</p>
-                    </div>
-                </div>
-            </div>
+
             <!--  Footer Widget  -->
-            <div class="footer-widget col-lg-4 col-md-6 col-12 mb-50">
-                <h3>Flickr Photos</h3>
-                <!--  Flickr Widget  -->
-                <ul class="flickr-gallery">
-                    <li><a href="#"><img src="img/flickr/1.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/2.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/3.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/4.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/5.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/6.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/7.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="img/flickr/2.jpg" alt=""></a></li>
-                </ul>
-            </div>
+
         </div>
     </div>
 </div>
 <!-- Footer Top Area End -->
 
-<!-- Footer Bottom Area Start -->
-<div id="footer-bottom-area" class="footer-bottom-area section">
-<!-- Footer Top Area End -->
-    <div class="container">
-        <div class="row justify-content-between">
-            <!-- Copyright -->
-            <div class="copyright col-md-auto col-12">
-                <p>Copyright &copy; <span>Green Soul</span> 2019. All right reserved</p>
-            </div>
-            <!-- Author Credit -->
-            <div class="author-credit col-md-auto col-12">
-                <p>Created by <a href="https://hastech.company/">Hastech</a> With <i class="fa fa-heart"></i></p>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Footer Bottom Area End -->
 
 </div>
