@@ -182,8 +182,11 @@
         <!-- Section Title -->
         <div class="row">
             <div class="section-title text-center col-12 mb-80">
-                <h2>SOME FACTS</h2>
-                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <h2>green certificate</h2>
+                <h3>why should u get a green certificate?</h3>>
+                <p>because it is great to promote your company!</p>
+                <p>with the green certificate u can show in which level u are when it comes to sorting your garbage.</p>
+                <p></p>
             </div>
         </div>
         <div class="row justify-content-center">
