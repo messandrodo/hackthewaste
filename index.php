@@ -182,8 +182,8 @@
         <!-- Section Title -->
         <div class="row">
             <div class="section-title text-center col-12 mb-80">
-                <h1>the more you recycle, the greener you becoma!</h1>
-                
+                <h1>the more you recycle, the greener you become!</h1>
+
 
             </div>
         </div>
@@ -213,8 +213,8 @@
             <!-- Section Title -->
             <div class="row">
                 <div class="section-title text-center col-12 mb-80">
-                    <h2>green certificate</h2>
-                    <h3>why should u get a green certificate?</h3>
+                    <h1>green certificate</h1>
+                    <h3>why Should you get a greencard certificate?</h3>
                     <p>because it is great to promote your company!</p>
                     <p> with the green certificate u can show in which level u are when it comes to sorting your garbage.</p>
                     <p>Every day we use many services and buy new products. This is accompanied by a large amount of waste. So far, our technologies do not allow us to produce goods and provide services without the appearance of new waste. But what can we do?
