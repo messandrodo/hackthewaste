@@ -1,14 +1,7 @@
-<?php
-session_start();
-if(isset($_SESSION['userLoggedSuccess'])){
-    echo "<script>alert('".$_SESSION['userLoggedSuccess']."')</script>";
-    unset($_SESSION['userLoggedSuccess']);
-}
-?>
 <!doctype html>
 <html class="no-js" lang="en">
 
-<!-- Mirrored from demo.hasthemes.com/greensoul-preview/greensoul/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Mar 2021 19:14:33 GMT -->
+<!-- Mirrored from demo.hasthemes.com/greensoul-preview/greensoul/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Mar 2021 19:14:33 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -44,23 +37,22 @@ if(isset($_SESSION['userLoggedSuccess'])){
 <div id="header-area" class="header-area section">
 
 
-
 <!-- Header Bottom Start -->
 <div class="header-bottom">
     <div class="container">
         <div class="row">
 			<!-- Logo -->
-			<div class="header-logo col align-self-center"><a class="logo" href="index.php"><img src="" alt=""></a></div>
+			<div class="header-logo col align-self-center"><a class="logo" href="index.html"><img src="img/logo.png" alt=""></a></div>
 			<!-- Main Menu -->
 			<div id="main-menu" class="main-menu col-auto d-none d-lg-block">
 				<nav>
 					<ul>
-						<li><a href="index.php">home</a></li>
-						<li><a href="about.php">about</a></li>
-						<li><a href="levels.php">Achievments</a></li>
-                        <li><a href="contact.php">Contact</a></li>
-						<li><a href="registration.php">Register</a></li>
-						<li><a href="login.php">Login</a></li>
+						<li><a href="index.html">home</a>
+							<ul>
+								<li><a href="index.html">home (Default Slider)</a></li>
+
+							</ul>
+						</li>
 					</ul>
 				</nav>
 			</div>
@@ -199,7 +191,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Image  -->
                     <img src="img/project/1.jpg" alt="">
                     <!--  Title  -->
-                    <h4><a href="project-details.php">All the Lorem Ipsum Gener</a></h4>
+                    <h4><a href="project-details.html">All the Lorem Ipsum Gener</a></h4>
                     <!--  Tags  -->
                     <div class="tags fix">
                         <a href="#">Energy</a>
@@ -209,7 +201,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Content  -->
                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
                     <!--  Button  -->
-                    <a class="button" href="project-details.php">Learn More</a>
+                    <a class="button" href="project-details.html">Learn More</a>
                 </div>
             </div>
             <!--  Single Project  -->
@@ -218,7 +210,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Image  -->
                     <img src="img/project/2.jpg" alt="">
                     <!--  Title  -->
-                    <h4><a href="project-details.php">It is a long established fact</a></h4>
+                    <h4><a href="project-details.html">It is a long established fact</a></h4>
                     <!--  Tags  -->
                     <div class="tags fix">
                         <a href="#">Energy</a>
@@ -228,7 +220,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Content  -->
                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
                     <!--  Button  -->
-                    <a class="button" href="project-details.php">Learn More</a>
+                    <a class="button" href="project-details.html">Learn More</a>
                 </div>
             </div>
             <!--  Single Project  -->
@@ -237,7 +229,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Image  -->
                     <img src="img/project/3.jpg" alt="">
                     <!--  Title  -->
-                    <h4><a href="project-details.php">All the Lorem Ipsum Gener</a></h4>
+                    <h4><a href="project-details.html">All the Lorem Ipsum Gener</a></h4>
                     <!--  Tags  -->
                     <div class="tags fix">
                         <a href="#">Energy</a>
@@ -247,7 +239,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                     <!--  Content  -->
                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClitock,</p>
                     <!--  Button  -->
-                    <a class="button" href="project-details.php">Learn More</a>
+                    <a class="button" href="project-details.html">Learn More</a>
                 </div>
             </div>
         </div>
@@ -316,7 +308,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <!--  Image  -->
                         <img src="img/causes/1.jpg" alt="">
                         <!--  Title  -->
-                        <h4><a href="causes-details.php">All the Lorem Ipsum Gener</a></h4>
+                        <h4><a href="causes-details.html">All the Lorem Ipsum Gener</a></h4>
                         <!--  Country  -->
                         <span>Brazil</span>
                         <!--  Content  -->
@@ -338,7 +330,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <!--  Image  -->
                         <img src="img/causes/2.jpg" alt="">
                         <!--  Title  -->
-                        <h4><a href="causes-details.php">Contrary to popular belief</a></h4>
+                        <h4><a href="causes-details.html">Contrary to popular belief</a></h4>
                         <!--  Country  -->
                         <span>Bangladesh</span>
                         <!--  Content  -->
@@ -360,7 +352,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <!--  Image  -->
                         <img src="img/causes/3.jpg" alt="">
                         <!--  Title  -->
-                        <h4><a href="causes-details.php">It is a long established fact</a></h4>
+                        <h4><a href="causes-details.html">It is a long established fact</a></h4>
                         <!--  Country  -->
                         <span>Brazil</span>
                         <!--  Content  -->
@@ -456,7 +448,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <h4>june</h4>
                     </div>
                     <div class="content fix">
-                        <a href="causes-details.php">Cites of the word in class</a>
+                        <a href="causes-details.html">Cites of the word in class</a>
                         <p>There are many variations of passages of Lorem Ipsum available,</p>
                     </div>
                 </div>
@@ -467,7 +459,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <h4>june</h4>
                     </div>
                     <div class="content fix">
-                        <a href="causes-details.php">long established fact that</a>
+                        <a href="causes-details.html">long established fact that</a>
                         <p>There are many variations of passages of Lorem Ipsum available,</p>
                     </div>
                 </div>
@@ -478,7 +470,7 @@ if(isset($_SESSION['userLoggedSuccess'])){
                         <h4>june</h4>
                     </div>
                     <div class="content fix">
-                        <a href="causes-details.php">Contrary to popular belief</a>
+                        <a href="causes-details.html">Contrary to popular belief</a>
                         <p>There are many variations of passages of Lorem Ipsum available,</p>
                     </div>
                 </div>
@@ -563,17 +555,17 @@ if(isset($_SESSION['userLoggedSuccess'])){
             <div class="col-lg-4 col-md-6 col-12 mb-30">
                 <div class="blog-item">
                     <!--  Image  -->
-                    <a href="blog-details.php" class="image"><img src="img/blog/1.jpg" alt=""></a>
+                    <a href="blog-details.html" class="image"><img src="img/blog/1.jpg" alt=""></a>
                     <!--  Content  -->
                     <div class="content">
-                        <h4><a href="blog-details.php">All the Lorem Ipsum Gener</a></h4>
+                        <h4><a href="blog-details.html">All the Lorem Ipsum Gener</a></h4>
                         <!--  Meta  -->
                         <div class="meta fix">
                             <span>28 January 2016</span>
                             <span><a href="#">3 Comment</a></span>
                         </div>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.php" class="read-more">LEARN MORE</a>
+                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
                     </div>
                 </div>
             </div>
@@ -581,17 +573,17 @@ if(isset($_SESSION['userLoggedSuccess'])){
             <div class="col-lg-4 col-md-6 col-12 mb-30">
                 <div class="blog-item">
                     <!--  Image  -->
-                    <a href="blog-details.php" class="image"><img src="img/blog/2.jpg" alt=""></a>
+                    <a href="blog-details.html" class="image"><img src="img/blog/2.jpg" alt=""></a>
                     <!--  Content  -->
                     <div class="content">
-                        <h4><a href="blog-details.php">Finibus Bonorum et Malorum</a></h4>
+                        <h4><a href="blog-details.html">Finibus Bonorum et Malorum</a></h4>
                         <!--  Meta  -->
                         <div class="meta fix">
                             <span>28 January 2016</span>
                             <span><a href="#">3 Comment</a></span>
                         </div>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.php" class="read-more">LEARN MORE</a>
+                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
                     </div>
                 </div>
             </div>
@@ -599,17 +591,17 @@ if(isset($_SESSION['userLoggedSuccess'])){
             <div class="col-lg-4 col-md-6 col-12 mb-30">
                 <div class="blog-item">
                     <!--  Image  -->
-                    <a href="blog-details.php" class="image"><img src="img/blog/3.jpg" alt=""></a>
+                    <a href="blog-details.html" class="image"><img src="img/blog/3.jpg" alt=""></a>
                     <!--  Content  -->
                     <div class="content">
-                        <h4><a href="blog-details.php">The standard Lorem Ipsuma</a></h4>
+                        <h4><a href="blog-details.html">The standard Lorem Ipsuma</a></h4>
                         <!--  Meta  -->
                         <div class="meta fix">
                             <span>28 January 2016</span>
                             <span><a href="#">3 Comment</a></span>
                         </div>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from</p>
-                        <a href="blog-details.php" class="read-more">LEARN MORE</a>
+                        <a href="blog-details.html" class="read-more">LEARN MORE</a>
                     </div>
                 </div>
             </div>
@@ -719,5 +711,5 @@ if(isset($_SESSION['userLoggedSuccess'])){
 </body>
 
 
-<!-- Mirrored from demo.hasthemes.com/greensoul-preview/greensoul/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Mar 2021 19:15:02 GMT -->
+<!-- Mirrored from demo.hasthemes.com/greensoul-preview/greensoul/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Mar 2021 19:15:02 GMT -->
 </html>
