@@ -183,8 +183,8 @@
         <div class="row">
             <div class="section-title text-center col-12 mb-80">
                 <h1>the more you recycle, the greener you becoma!</h1>
-                <h1>1500+</h1>
-               
+                
+
             </div>
         </div>
 
@@ -195,7 +195,7 @@
             <!-- Section Title -->
             <div class="row">
                 <div class="section-title text-center col-12 mb-80">
-                    
+
                     <h1>1500+</h1>
                     <h2>People Working with Us</h2>
                     <p>come join us!</p>
