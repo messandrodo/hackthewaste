@@ -50,7 +50,7 @@
                         <!-- Header Top Left -->
                         <div class="header-top-left col-md-auto col-12">
                             <p><span>Phone:</span> +945 588 9966</p>
-                            <p><span>Email:</span> greensoul@email.com</p>
+                            <p><span>Email:</span> info@greencard.com</p>
                         </div>
                         <!-- Header Top Right -->
                         <div class="header-top-right col-md-auto col-12 d-none d-md-flex">
@@ -182,6 +182,7 @@
         <!-- Section Title -->
         <div class="row">
             <div class="section-title text-center col-12 mb-80">
+                <h1>the more you recycle, the greener you becoma!</h1>
                 <h1>1500+</h1>
                 <h2>People Working with Us</h2>
                 <p>come join us!</p>
@@ -194,7 +195,24 @@
 
 <!-- About Area Start -->
 
+    <div id="funfact-area" class="funfact-area section pt-120 pb-100">
+        <div class="container">
+            <!-- Section Title -->
+            <div class="row">
+                <div class="section-title text-center col-12 mb-80">
+                    <h2>green certificate</h2>
+                    <h3>why should u get a green certificate?</h3>>
+                    <p>because it is great to promote your company!</p>
+                    <p> with the green certificate u can show in which level u are when it comes to sorting your garbage.</p>
+                    <p>Every day we use many services and buy new products. This is accompanied by a large amount of waste. So far, our technologies do not allow us to produce goods and provide services without the appearance of new waste. But what can we do?
+                        The main thing that every person could do is to sort the trash. Most trash is produced by companies. Before visiting a store or a restaurant, customers don't know whether employees of the company care about the environment and whether they sort the waste. We need special technology to know if the company is eco-friendly or not. Our project helps to solve this problem. We offer to use  Greencard for companies. Using these cards people can measure how sustainable companies are in sorting garbage. Companies will have to report how they sort garbage and each person can see their activity on the Internet.
+                    </p>
+                    <p></p>
+                </div>
+            </div>
 
+        </div>
+    </div>
 <!-- About Area End -->
 
 <!-- Project Area Start -->
@@ -251,38 +269,7 @@
                 <p></p>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="d-flex justify-content-center flex-wrap col-auto">
-                <!--  Single Fact  -->
-                <div class="single-fact">
-                    <img src="img/funfact/1.png" alt="">
-                    <span class="border"></span>
-                    <h1><span class="counter">54514</span></h1>
-                    <p>PROJECTS</p>
-                </div>
-                <!--  Single Fact  -->
-                <div class="single-fact">
-                    <img src="img/funfact/2.png" alt="">
-                    <span class="border"></span>
-                    <h1>$<span class="counter">58785</span></h1>
-                    <p>DONATIONS</p>
-                </div>
-                <!--  Single Fact  -->
-                <div class="single-fact">
-                    <img src="img/funfact/3.png" alt="">
-                    <span class="border"></span>
-                    <h1>$<span class="counter">28785</span></h1>
-                    <p>RAISED</p>
-                </div>
-                <!--  Single Fact  -->
-                <div class="single-fact">
-                    <img src="img/funfact/4.png" alt="">
-                    <span class="border"></span>
-                    <h1><span class="counter">504</span></h1>
-                    <p>DONATORS</p>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 <!-- FunFact Area End -->
@@ -297,7 +284,7 @@
 
 <!-- Client Area Start -->
 
-    
+
 <!-- Client Area End -->
 
 <!-- Blog Area Start -->
