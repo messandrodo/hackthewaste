@@ -43,41 +43,14 @@ if(isset($_SESSION['userLoggedSuccess'])){
 <!-- Header Area Start -->
 <div id="header-area" class="header-area section">
 
-<!-- Header Top Start -->
-<div class="header-top">
-    <div class="container">
-        <div class="row justify-content-between">
-            <!-- Header Top Left -->
-            <div class="header-top-left col-md-auto col-12">
-                <p><span>Phone:</span> +945 588 9966</p>
-                <p><span>Email:</span> greensoul@email.com</p>
-            </div>
-            <!-- Header Top Right -->
-            <div class="header-top-right col-md-auto col-12 d-none d-md-flex">
-                <!-- Header Social -->
-                <div class="header-social d-md-none d-lg-flex">
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
-                    <?php
-                        if(isset($_SESSION['userActive']) && $_SESSION['userActive'] == true){
-                            echo '<a href="#"><i class="fa fa-user"></i></a>';
-                        }
-                    ?>
-                </div>
-                <!-- Header Quote Button -->
-                <a href="contact.php" class="get-quote">get a qoute</a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Header Top End -->
+
 
 <!-- Header Bottom Start -->
 <div class="header-bottom">
     <div class="container">
         <div class="row">
 			<!-- Logo -->
-			<div class="header-logo col align-self-center"><a class="logo" href="index.php"><img src="img/logo.png" alt=""></a></div>
+			<div class="header-logo col align-self-center"><a class="logo" href="index.php"><img src="" alt=""></a></div>
 			<!-- Main Menu -->
 			<div id="main-menu" class="main-menu col-auto d-none d-lg-block">
 				<nav>
