@@ -38,41 +38,103 @@
 
 
 <!-- Header Bottom Start -->
-<div class="header-bottom">
-    <div class="container">
-        <div class="row">
-			<!-- Logo -->
-			<div class="header-logo col align-self-center"><a class="logo" href="index.html"><img src="img/logo.png" alt=""></a></div>
-			<!-- Main Menu -->
-			<div id="main-menu" class="main-menu col-auto d-none d-lg-block">
-				<nav>
-					<ul>
-						<li><a href="index.html">home</a>
-							<ul>
-								<li><a href="index.html">home (Default Slider)</a></li>
+    <div class="wrapper fix">
 
-							</ul>
-						</li>
-					</ul>
-				</nav>
-			</div>
-			<!-- Header Search Wrapper -->
-			<div class="header-search-wrapper col-auto">
-				<!-- Search Toggle -->
-				<button class="search-toggle"><i class="zmdi zmdi-search-for"></i></button>
-				<!-- Header Search Wrapper -->
-				<div class="header-search">
-					<form action="#" id="header-search-form">
-						<input type="text" placeholder="Search here...">
-						<button><i class="zmdi zmdi-search"></i></button>
-					</form>
-				</div>
-			</div>
-			<!-- Mobile Menu -->
-			<div class="mobile-menu col-12 d-lg-none"></div>
+        <!-- Header Area Start -->
+        <div id="header-area" class="header-area section">
+
+            <!-- Header Top Start -->
+            <div class="header-top">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <!-- Header Top Left -->
+                        <div class="header-top-left col-md-auto col-12">
+                            <p><span>Phone:</span> +945 588 9966</p>
+                            <p><span>Email:</span> greensoul@email.com</p>
+                        </div>
+                        <!-- Header Top Right -->
+                        <div class="header-top-right col-md-auto col-12 d-none d-md-flex">
+                            <!-- Header Social -->
+                            <div class="header-social d-md-none d-lg-flex">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-rss"></i></a>
+                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                            </div>
+                            <!-- Header Quote Button -->
+                            <a href="contact.html" class="get-quote">get a qoute</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Header Top End -->
+
+            <!-- Header Bottom Start -->
+            <div class="header-bottom">
+                <div class="container">
+                    <div class="row">
+                        <!-- Logo -->
+                        <div class="header-logo col align-self-center"><a class="logo" href="index.html"><img src="img/logo.png" alt=""></a></div>
+                        <!-- Main Menu -->
+                        <div id="main-menu" class="main-menu col-auto d-none d-lg-block">
+                            <nav>
+                                <ul>
+                                    <li><a href="index.html">home</a>
+                                        <ul>
+                                            <li><a href="index.html">home (Default Slider)</a></li>
+                                            <li><a href="index-2.html">home 2 (BG Image)</a></li>
+                                            <li><a href="index-3.html">home 3 (BG Video)</a></li>
+                                            <li><a href="index-4.html">home 4 <span class="badge badge-success ml-2">New</span></a></li>
+                                            <li><a href="index-5.html">home 5 <span class="badge badge-success ml-2">New</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="about.html">about</a></li>
+                                    <li><a href="project.html">project</a>
+                                        <ul>
+                                            <li><a href="project.html">project</a></li>
+                                            <li><a href="project-details.html">project details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">pages</a>
+                                        <ul>
+                                            <li><a href="causes.html">causes</a></li>
+                                            <li><a href="causes-details.html">causes details</a></li>
+                                            <li><a href="event.html">event</a></li>
+                                            <li><a href="event-details.html">event details</a></li>
+                                            <li><a href="gallery.html">gallery</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="blog.html">blog</a>
+                                        <ul>
+                                            <li><a href="blog.html">blog</a></li>
+                                            <li><a href="blog-details.html">blog details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact.html">contact</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <!-- Header Search Wrapper -->
+                        <div class="header-search-wrapper col-auto">
+                            <!-- Search Toggle -->
+                            <button class="search-toggle"><i class="zmdi zmdi-search-for"></i></button>
+                            <!-- Header Search Wrapper -->
+                            <div class="header-search">
+                                <form action="#" id="header-search-form">
+                                    <input type="text" placeholder="Search here...">
+                                    <button><i class="zmdi zmdi-search"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- Mobile Menu -->
+                        <div class="mobile-menu col-12 d-lg-none"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Header Bottom End -->
+
         </div>
-    </div>
-</div>
 <!-- Header Bottom End -->
 
 </div>
@@ -177,100 +239,53 @@
 <!-- Causes Area End -->
 
 <!-- FunFact Area Start -->
-    <div class="wrapper fix">
-
-        <!-- Header Area Start -->
-        <div id="header-area" class="header-area section">
-
-            <!-- Header Top Start -->
-            <div class="header-top">
-                <div class="container">
-                    <div class="row justify-content-between">
-                        <!-- Header Top Left -->
-                        <div class="header-top-left col-md-auto col-12">
-                            <p><span>Phone:</span> +945 588 9966</p>
-                            <p><span>Email:</span> greensoul@email.com</p>
-                        </div>
-                        <!-- Header Top Right -->
-                        <div class="header-top-right col-md-auto col-12 d-none d-md-flex">
-                            <!-- Header Social -->
-                            <div class="header-social d-md-none d-lg-flex">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                            </div>
-                            <!-- Header Quote Button -->
-                            <a href="contact.html" class="get-quote">get a qoute</a>
-                        </div>
-                    </div>
+<div id="funfact-area" class="funfact-area section pt-120 pb-100">
+    <div class="container">
+        <!-- Section Title -->
+        <div class="row">
+            <div class="section-title text-center col-12 mb-80">
+                <h2>green certificate</h2>
+                <h3>why should u get a green certificate?</h3>>
+                <p>because it is great to promote your company!</p>
+                <p> with the green certificate u can show in which level u are when it comes to sorting your garbage.</p>
+                <p></p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="d-flex justify-content-center flex-wrap col-auto">
+                <!--  Single Fact  -->
+                <div class="single-fact">
+                    <img src="img/funfact/1.png" alt="">
+                    <span class="border"></span>
+                    <h1><span class="counter">54514</span></h1>
+                    <p>PROJECTS</p>
+                </div>
+                <!--  Single Fact  -->
+                <div class="single-fact">
+                    <img src="img/funfact/2.png" alt="">
+                    <span class="border"></span>
+                    <h1>$<span class="counter">58785</span></h1>
+                    <p>DONATIONS</p>
+                </div>
+                <!--  Single Fact  -->
+                <div class="single-fact">
+                    <img src="img/funfact/3.png" alt="">
+                    <span class="border"></span>
+                    <h1>$<span class="counter">28785</span></h1>
+                    <p>RAISED</p>
+                </div>
+                <!--  Single Fact  -->
+                <div class="single-fact">
+                    <img src="img/funfact/4.png" alt="">
+                    <span class="border"></span>
+                    <h1><span class="counter">504</span></h1>
+                    <p>DONATORS</p>
                 </div>
             </div>
-            <!-- Header Top End -->
-
-            <!-- Header Bottom Start -->
-            <div class="header-bottom">
-                <div class="container">
-                    <div class="row">
-                        <!-- Logo -->
-                        <div class="header-logo col align-self-center"><a class="logo" href="index.html"><img src="img/logo.png" alt=""></a></div>
-                        <!-- Main Menu -->
-                        <div id="main-menu" class="main-menu col-auto d-none d-lg-block">
-                            <nav>
-                                <ul>
-                                    <li><a href="index.html">home</a>
-                                        <ul>
-                                            <li><a href="index.html">home (Default Slider)</a></li>
-                                            <li><a href="index-2.html">home 2 (BG Image)</a></li>
-                                            <li><a href="index-3.html">home 3 (BG Video)</a></li>
-                                            <li><a href="index-4.html">home 4 <span class="badge badge-success ml-2">New</span></a></li>
-                                            <li><a href="index-5.html">home 5 <span class="badge badge-success ml-2">New</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">about</a></li>
-                                    <li><a href="project.html">project</a>
-                                        <ul>
-                                            <li><a href="project.html">project</a></li>
-                                            <li><a href="project-details.html">project details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">pages</a>
-                                        <ul>
-                                            <li><a href="causes.html">causes</a></li>
-                                            <li><a href="causes-details.html">causes details</a></li>
-                                            <li><a href="event.html">event</a></li>
-                                            <li><a href="event-details.html">event details</a></li>
-                                            <li><a href="gallery.html">gallery</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="blog.html">blog</a>
-                                        <ul>
-                                            <li><a href="blog.html">blog</a></li>
-                                            <li><a href="blog-details.html">blog details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">contact</a></li>
-                                </ul>
-                            </nav>
-                        </div>
-                        <!-- Header Search Wrapper -->
-                        <div class="header-search-wrapper col-auto">
-                            <!-- Search Toggle -->
-                            <button class="search-toggle"><i class="zmdi zmdi-search-for"></i></button>
-                            <!-- Header Search Wrapper -->
-                            <div class="header-search">
-                                <form action="#" id="header-search-form">
-                                    <input type="text" placeholder="Search here...">
-                                    <button><i class="zmdi zmdi-search"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                        <!-- Mobile Menu -->
-                        <div class="mobile-menu col-12 d-lg-none"></div>
-                    </div>
-                </div>
-            </div><!-- FunFact Area End -->
+        </div>
+    </div>
+</div>
+<!-- FunFact Area End -->
 
 <!-- Video Area Start -->
 
