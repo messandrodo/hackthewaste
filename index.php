@@ -296,33 +296,8 @@
 <!-- Event Gallery Area End -->
 
 <!-- Client Area Start -->
-<div id="client-area" class="client-area bg-dark section pt-115 pb-115">
-    <div class="container">
-		<!--  Client Slider  -->
-		<div class="client-slider row">
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/1.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/2.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/3.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/4.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/5.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/1.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/2.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/3.png" alt=""></div>
-			<!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/4.png" alt=""></div>
-			<!--  Client Item  -->                    <!--  Client Item  -->
-			<div class="client-item col-12"><img src="img/clients/5.png" alt=""></div>
-		</div>
-	</div>
-</div>
+
+    
 <!-- Client Area End -->
 
 <!-- Blog Area Start -->
